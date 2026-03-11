@@ -1,8 +1,6 @@
 <div style="color: white;background-color: #333333;  padding: 10px;">
 
-
-
-# <span style="color:white;">Aguja del vacio (6 boses)
+# <span style="color:white;">Aguja del vacío (6 bosses)
 
 ## <span style="color:white;">Imperator Averzian
 
@@ -10,40 +8,47 @@
 
 ### <span style="color:white;">Resumen
 
-Esta pelea es sencilla de entender ya que consta de un tablero de gato (tic tac toe) en el cual hay que jugar gato contra el boss, o mas bien evitar que el boss consiga 3 en linea, estos 3 en linea son puestos por el boss invocando un portal y dejando un add donde mediante una mecanica de tanke podemos eliminar 2 de los 3 adds que invoca el boss, hay que evitar que el add que queda forme el 3 en linea con los demas que estan quedando en cada ciclo del boss, nunca se debe dejar el cuadro 5 ya que el boss va ahi a castear ciertas mecanicas.
+Esta pelea es sencilla de entender, ya que consta de un tablero de gato (tic tac toe) en el cual hay que jugar contra el boss, o más bien evitar que el boss consiga 3 en línea.  
+Estos 3 en línea son puestos por el boss invocando un portal y dejando un add donde, utilizando una mecánica de tanque, podemos eliminar 2 de los 3 adds que invoca el boss.  
+
+Hay que evitar que el add que queda forme el 3 en línea con los demás que van quedando en cada ciclo del boss.  
+Nunca se debe dejar el add del cuadro 5, ya que el boss va ahí a castear ciertas mecánicas y se potencia.
 
 ![alt text](image.png)
 
-#### <span style="color:white;">Mecanica principal (GATO o 3 en linea)
+#### <span style="color:white;">Mecánica principal (GATO o 3 en línea)
 
 ![alt text](image-1.png)
 
-Se debe eliminar 2 de los 3 adds que se invocan, esto mediante un soak de raid:
+Se deben eliminar 2 de los 3 adds que se invocan, esto mediante un soak de raid:
 
 ![alt text](SoakBoss1.gif)
 
-Aca los **<span style="color:white;">Tanks** son marcados, cada uno con un soak, asi que deben colocarse en su respectivo add y ver que no se forme el 3 en linea.
+Acá los **<span style="color:white;">Tanks** son marcados, cada uno con un soak, así que deben colocarse en su respectivo add y evitar que se forme el 3 en línea.
 
-Los demas **<span style="color:white;">Raiders** deben entrar al soak y ayudar al tank a soportar el daño, esta mecanica debe ser curado por los **<span style="color:white;">Healers**.
+Los demás **<span style="color:white;">Raiders** deben entrar al soak y ayudar al tank a soportar el daño.  
+Esta mecánica debe ser curada por los **<span style="color:white;">Healers**.
 
-#### <span style="color:white;">Hero 
+#### <span style="color:white;">Hero
 
-En hero esta mecanica aplica un debuff por lo que debe hacerse en grupos 2 grupos de raid.
+En hero esta mecánica aplica un debuff, por lo que debe hacerse en 2 grupos de raid.
 
-al eliminar 2 adds el tercero seguira casteando y al terminar comienza otra cast que hay que interrumpir 
+Al eliminar 2 adds, el tercero seguirá casteando y al terminar comienza otro cast que hay que interrumpir.
 
 ![alt text](ADDsobranteBoss1.gif)
 
+Todos se deben mover de esta mecánica, ya que hace daño por segundo a través de los rayos que salen.
 
-todos se deben mover de esta mecanica ya que hace daño por segundo los rayos que salen.
+---
 
-### <span style="color:white;">Mecanicas Secundarias
+### <span style="color:white;">Mecánicas Secundarias
 
-#### <span style="color:white;">Colera del olvido
+#### <span style="color:white;">Cólera del olvido
 
 ![alt text](image-2.png)
 
-el boss coloca circulos de los cuales vana salir lanzar que se alejan del boss en linea recta se debe esquivar tanto el circulo como la lanza.
+El boss coloca círculos de los cuales van a salir lanzas que se alejan del boss en línea recta.  
+Se debe esquivar tanto el círculo como la lanza.
 
 ![alt text](FrontalBoss1.gif)
 
@@ -51,56 +56,63 @@ el boss coloca circulos de los cuales vana salir lanzar que se alejan del boss e
 
 ![alt text](image-3.png)
 
-El boss va a invocar adds que se deben matar cada ciclo de la pelea.
+El boss va a invocar adds que se deben matar en cada ciclo de la pelea.
+
 ##### <span style="color:white;">Importante
 
-En esta fase hay 2 adds que son de gran importancia y se deben cumplir su mecanica
+En esta fase hay 2 adds que son de gran importancia y se debe cumplir su mecánica.
 
 ![alt text](image-4.png)
 
-- Este add se debe interrumpir siempre ya que su cast coloca un escudo a los demas adds
+- Este add se debe interrumpir siempre, ya que su cast coloca un escudo a los demás adds.
 
 ![alt text](image-5.png)
 
-- Este add se debe poner atencion ya que al llegar al 30 % de vida se va hacia el portal mas cercano y se cura la vida.
+- Este add se debe poner especial atención, ya que al llegar al 30% de vida se va hacia el portal más cercano y se cura la vida.
 
+---
 
 ### <span style="color:white;">Healers
 
-Los heals deben tener cuidado con 2 mecanicas que causan mucho daño a la raid.
+Los heals deben tener cuidado con 2 mecánicas que causan mucho daño a la raid.
 
-Primera soak de tanke:
+Primera: el soak de tanque:
 
 ![alt text](image-1.png)
 
-segunda daño constante a la raid con picos esporadicos en cada ciclo de la pelea:
+Segunda: el daño constante a la raid con picos esporádicos en cada ciclo de la pelea:
 
 ![alt text](image-7.png)
 
-ocurre 2 veces cada ciclo.
+Ocurre 2 veces cada ciclo.
 
-### <span style="color:white;">Tankes
+---
 
-Los tankes se dividen en 2 tareas tankear al boss y tankear los adds y deben tener cuidado con 3 mecanicas:
+### <span style="color:white;">Tanks
 
-Primera soak:
+Los tanks se dividen en 2 tareas: tankear al boss y tankear los adds.  
+También deben tener cuidado con 3 mecánicas:
+
+Primera mecánica: el soak.
 
 ![alt text](image-1.png)
 
-Segunda Mecanica de tanke:
+Segunda mecánica de tank:
 
 ![alt text](image-8.png)
 
-Esta mecanica es peligrosa porque reduce la vida maxima asi que debe calcularse bien el cambio de tank maximo 8 acumulaciones inclusive antes.
+Esta mecánica es peligrosa porque reduce la vida máxima, así que debe calcularse bien el cambio de tank.  
+Máximo 8 acumulaciones, inclusive antes.
 
-tercera mecanica de heroico:
+Tercera mecánica de heroico:
 
 ![alt text](image-9.png)
 
-Esta emcanica obliga a no tener nunca al boss cerca de ningun piso reclamado por el boss.
+Esta mecánica obliga a no tener nunca al boss cerca de ningún piso reclamado.
 
 #### <span style="color:white;">Extra:
-Los adds nunca deben estar cerca del boss ya que estos se buffan e incrementan el daño y reducen el daño que reciben.
+
+Los adds nunca deben estar cerca del boss, ya que estos se buffan e incrementan su daño y reducen el daño que reciben.
 
 ## <span style="color:white;">Vorasius
 
@@ -108,183 +120,149 @@ Los adds nunca deben estar cerca del boss ya que estos se buffan e incrementan e
 
 ### <span style="color:white;">Resumen
 
-Esta pelea es un dps check y es la mas sencilla de toda la raid cuenta con 4 pasos principales los acuales son: estar dentro de los muros, esquivar suelos, matar adds para romper los muros y esquivar la mecanica principal del boss.
+Esta pelea es un DPS check y es la más sencilla de toda la raid.  
+Cuenta con 4 pasos principales, los cuales son: estar dentro de los muros, esquivar suelos, matar adds para romper los muros y esquivar la mecánica principal del boss.
 
 ![alt text](image-11.png)
 
-#### <span style="color:white;">Mecanica principal
+#### <span style="color:white;">Mecánica principal
 
-La mecanica principal de este boss es gestionar muros para esquivar un rayo frontal los muros son invocados mediante una mecanica de soak de tankes la cual deben turnarse 2 cada tanke:
+La mecánica principal de este boss es gestionar muros para esquivar un rayo frontal.  
+Los muros son invocados mediante una mecánica de soak de tanks, la cual deben turnarse 2 golpes cada tank:
 
 ![alt text](soaktankboss2.gif)
 
-esta mecanica invocara un muro a su lado al golpear la primera vez por lo que todos los jugadores debe esta en el centro de la arena y no quedar fuera de los muros.
+Esta mecánica invocará un muro a su lado al golpear la primera vez, por lo que todos los jugadores deben estar en el centro de la arena y no quedar fuera de los muros.
 
-Seguido de esto al golpear al tanke inicia una mecanica de esquivar circulos donde todos deben moverse y esquivarlos:
+Seguido de esto, al golpear al tank, inicia una mecánica de esquivar círculos donde todos deben moverse y esquivarlos:
 
 ![alt text](Circulosboss2.gif)
 
-cada tanke debe comerse 2 soaks con defensivo y cambiar de tanke.
+Cada tank debe comerse 2 soaks con defensivo y cambiar de tank.
 
-Seguido de esto el boss va a castear Expulsion de parasitos:
+Seguido de esto, el boss va a castear Expulsión de parásitos:
 
 ![alt text](image-12.png)
 
-Donde saldran charcos que hay que esquivar y dejara 4 adds con agro fixeado.
+Donde saldrán charcos que hay que esquivar y dejará 4 adds con agro fijado.
 
 ![alt text](parasitosBoss2.gif)
 
-Estos adds son importantes ya que son los que al morir van a explotar y hacer un aoe que permitira romper los muros.
+Estos adds son importantes, ya que son los que al morir van a explotar y hacer un AoE que permitirá romper los muros.
 
 ![alt text](RomperParedesBoss2.gif)
 
-Luego de esto el boss comenzara a preparar un rayo donde se le iluminara una de sus manos y lanzara un rayo barriendo la sala desde el aldo que se ilumina hasta un poco mas del centro por lo que la raid debe moverse al lado contrario y volver al centro luego de la mecanica.
+Luego de esto, el boss comenzará a preparar un rayo donde se le iluminará una de sus manos y lanzará un rayo, barriendo la sala desde el lado que se ilumina hasta un poco más del centro.  
+Por lo que la raid debe moverse al lado contrario y volver al centro luego de la mecánica.
 
 ![alt text](RayoFrontalBoss2.gif)
 
-este es el ciclo principal de la pelea y se repite continuamente hasta el enrage donde l boss lanzara el rayo a un objetivo aleatorio lo mata y cambia de objetivo instantaneamente.
+Este es el ciclo principal de la pelea y se repite continuamente hasta el enrage, donde el boss lanzará el rayo a un objetivo aleatorio, lo mata y cambia de objetivo instantáneamente.
 
+---
 
 ### <span style="color:white;">Healers
 
-los healers deben tener en cuenta 2 habilidades:
+Los healers deben tener en cuenta 2 habilidades:
 
-la primera:
+La primera:
 
 ![alt text](image-13.png)
 
-la cual el boss va a estar casteando repetidamente durante toda la pelea.
+En la cual el boss va a estar casteando repetidamente durante toda la pelea.
 
-la segunda:
+La segunda:
+
+![alt text](image-14.png)
+
+La cual es la mecánica de soak del tank y puede provocar mucho daño en la raid si no se tiene una reacción rápida.
+
+---
+
+### <span style="color:white;">Tanks
+
+Los tanks deben tener cuidado con los soaks e intercambiarse cada 2 golpes, usando siempre un defensivo fuerte en el segundo impacto.
 
 ![alt text](image-14.png)
 
-el cual es la mecanica de soak del tanke y que puede provocar mucho daño en la raid si no se tienen una reaccion rapida.
-
-### <span style="color:white;">Tankes
-
-Los tankes deben tener cuidado con los soaks y intercambiarse cada 2 golpes usando siempre un defensivo fuerte en el segundo impacto.
-
-![alt text](image-14.png)
+---
 
 ### <span style="color:white;">DPS
 
-los dps deben encargarse de mover correctamente los adds que los seleccionen como objetivo y matarlos unicamente cerca de un muro, no antes.
+Los DPS deben encargarse de mover correctamente los adds que los seleccionen como objetivo y matarlos únicamente cerca de un muro, no antes.
 
 ![alt text](image-15.png)
 
 Estos adds no hacen mucho daño.
 
-## <span style="color:white;">Salhadaar fallen king (otra vez)
+## <span style="color:white;">Salhadaar Fallen King (otra vez)
 
 ![alt text](image-16.png)
 
 ### <span style="color:white;">Resumen
 
-Esta pelea consta de 2 partes durante el ciclo de pelea, y es una pelea de prioridad de targets por lo que es single target.
+Esta pelea consta de 2 partes durante el ciclo de la pelea y es una pelea de prioridad de targets, por lo que es single target.
 
 ![alt text](image-25.png)
 
-la primera parte de la pelea consta de un ciclo de combate sencillo, donde 
+La primera parte de la pelea consta de un ciclo de combate sencillo donde:
 
-- El boss va a invocar orbes
+- El boss va a invocar orbes:
 
 ![alt text](image-17.png)
 
- desde 2 portales (los mas cercanos) de los 3 presentes en la sala, estos orbes deben ser destruidos rapidamente antes de que estos alcancen al boss, se pueden relentizar mas no mover y no deben ser tocados por ningun jugador.
+Desde 2 portales (los más cercanos) de los 3 presentes en la sala.  
+Estos orbes deben ser destruidos rápidamente antes de que alcancen al boss.  
+Se pueden ralentizar, pero no mover, y no deben ser tocados por ningún jugador.
 
 ![alt text](orbesBoss3.gif)
 
 #### <span style="color:white;">Hero
- en dificultad heroica estos orbes aplican un debuff a toda la raid que hace mucho daño por lo que no deben matar a la vez.
+
+En dificultad heroica estos orbes aplican un debuff a toda la raid que hace mucho daño, por lo que no se deben matar al mismo tiempo.
 
 - El boss va a hacer daño a toda la raid y a aplicar un debuff que hace daño en el tiempo.
 
 ![alt text](image-21.png)
 
-- El boss va a lanzar copias de si mismo
+- El boss va a lanzar copias de sí mismo:
 
 ![alt text](image-20.png)
 
-las cuales deben ser interrumpidas o stuneadas por los jugadores ya que si terminan su casteo haran daño a los jugadores y dejaran manchas en el suelo.
+Las cuales deben ser interrumpidas o stuneadas por los jugadores, ya que si terminan su casteo harán daño a los jugadores y dejarán manchas en el suelo.
 
 ![alt text](copiasBoss3.gif)
 
- - El boss va a marcar a 3 jugadores con un debuff el cual es un healing absorb que debe ser curado.
- 
- ![alt text](image-18.png)
- 
-  Al caducar o curarse por completo se genera un charco bajo el jugador que va consumiendo la sala.
+- El boss va a marcar a 3 jugadores con un debuff que es un healing absorb y debe ser curado.
 
- ![alt text](charcosBoss3.gif)
+![alt text](image-18.png)
 
-- adicionalmente el boss marcara al tanke actual y le lanzara una bomba
+Al caducar o curarse por completo, se genera un charco bajo el jugador que va consumiendo la sala.
+
+![alt text](charcosBoss3.gif)
+
+- Adicionalmente, el boss marcará al tank actual y le lanzará una bomba:
 
 ![alt text](image-19.png)
 
-La cual tirara espinas en 5 direcciones visibles antes del impacto, por lo que este debe alejarse y los jugadores esquivar esto.
+La cual tirará espinas en 5 direcciones visibles antes del impacto, por lo que el tank debe alejarse y los jugadores esquivar esto.
 
 ![alt text](bombatankeBoss3.gif)
 
 #### <span style="color:white;">Hero
-En dificultad heroica ademas se marcara a jugadores aleatorios con esta misma mecanica.
 
-Este es el ciclo principal de la pelea al cumplir 2 de estos ciclos el boss alcanza 100p de energia y entra en una interfase 
+En dificultad heroica además se marcará a jugadores aleatorios con esta misma mecánica.
+
+Este es el ciclo principal de la pelea.  
+Al cumplir 2 de estos ciclos, el boss alcanza 100% de energía y entra en una interfase:
 
 ![alt text](image-22.png)
 
-donde recibira daño aumentado y hara una habilidad donde lanzara 5 rayos que rotaran en una direccion haciendo mucho daño y ademas irradiando daño constante.
+Donde recibirá daño aumentado y hará una habilidad donde lanzará 5 rayos que rotan en una dirección haciendo mucho daño y además irradiando daño constante.
 
 ![alt text](rayosBoss3.gif)
 
-al terminar esta habilidad el boss dejara un charco debajo suyo por lo que este debe ser movido a un lugar donde no estorbe el charco que dejara.
-
-
-### <span style="color:white;">Tankes
-
-Los tankes deben tener cuidado a 2 habilidades y al posicionamiento del boss
-
-la primera es:
-
-![alt text](image-23.png)
-
-la cual es la mecanica de tank y deben cambiarse cada 8 cargas aproximadamente.
-
-la segunda e:
-
-![alt text](image-19.png)
-
-la cual sera un daño grande y debe ser mitigado con algun defensivo fuerte.
-
-
-### <span style="color:white;">Healers
-
-los healers deben tener cuidado con 3 habilidades.
-
-la primera es:
-
-![alt text](image-21.png)
-
-la cual hara daño constante a los jugadores y debe ser gestionado con sanaciones en el tiempo o ciclicas.
-
-la segunda es:
-
-![alt text](image-18.png)
-
-donde el boss va a aplicar un healing absorb al jugador y este debe ser curado para cancelar ese efecto el el jugador, hay que tener cuidado con no curarlos rapidamente y dejar los charcos en media sala.
-
-la tercera es:
-
-![alt text](image-22.png)
-
-donde los jugadores de la banda recibiran mucho daño constante y debe ser gestionado con cds de curacion fuertes.
-
-
-### <span style="color:white;">DPS
-
-Los jugadores dps solo deben tener atencion a matar a los orbes lo mas rapido posible e interrumpir a todas las copias que salgan, ademas de posicionarse correctamente para no manchar la sala en exceso con las marcas de:
-
-![alt text](image-18.png).
+Al terminar esta habilidad, el boss dejará un charco debajo suyo, por lo que debe ser movido antes a un lugar donde no estorbe el charco que dejará.
 
 ## <span style="color:white;">Vaelgor y Ezzorak
 
@@ -292,157 +270,208 @@ Los jugadores dps solo deben tener atencion a matar a los orbes lo mas rapido po
 
 ### <span style="color:white;">Resumen
 
-Esta pelea consta de 2 fases
+Esta pelea consta de 2 fases.
 
 ![alt text](image-27.png)
 
 #### <span style="color:white;">Fase 1
 
-Durante esta fase los boses van a estar uno en el aire y otro en el suelo, la raid debe ser dividida con un daño similar, el boss que esta en el aire no puede ser movido y estara volando en un lugar todo el tiempo, el boss del suelo si podra ser movido y debe ser alejado del boss volador o estos se pontenciaran, ademas, deberan tener no mas de 10% de diferencia en sus vidas y estos deberan morir lo mas cercano posible ya que al morir el dragon restante incrementa mucho su daño.
+Durante esta fase los bosses estarán uno en el aire y otro en el suelo.  
+La raid debe dividirse con un daño similar.
+
+El boss que está en el aire no puede ser movido y estará volando en un lugar todo el tiempo.  
+El boss del suelo sí podrá ser movido y debe ser alejado del boss volador o estos se potenciarán.
+
+Además, no deberán tener más de un 10% de diferencia en sus vidas y deberán morir lo más cercano posible, ya que al morir uno, el dragón restante incrementa mucho su daño.
 
 ![alt text](image-26.png)
 
-al iniciar el boss que esta volando sera Ezzorak el que no sera Vaelgor (el boss mas oscuro) por lo que iniciamos explicando a Vaelgor, el ciclo de habilidades de este boss sera el siguiente:
+Al iniciar, el boss que está volando será Ezzorak y el que está en el suelo será Vaelgor (el boss más oscuro).
 
-- Al comienzo de la pelea el boss seleccionara a un jugador con un cono frontal
+---
+
+### <span style="color:white;">Habilidades de Vaelgor
+
+- Al comienzo de la pelea el boss seleccionará a un jugador con un cono frontal:
 
 ![alt text](image-28.png)
 
- sera identificable por la flecha morada en su cabeza
+Será identificable por la flecha morada en su cabeza.
 
 ![alt text](FrontalMiedoBoss4.gif)
 
-este cono mete fear y daño a todos los jugadores que alcance por lo que el jugador que lo reciba debera ser dispeleado y curado por los healers (es posible utilizar inmunidades para evitar todo el daño y mecanicas).
+Este cono mete fear y daño a todos los jugadores que alcance, por lo que el jugador que lo reciba deberá ser dispeleado y curado por los healers.  
+(Es posible utilizar inmunidades para evitar el daño y la mecánica).
 
-- la siguiente habilidad que hara el boss sera un aliento frontal
-  
+- La siguiente habilidad será un aliento frontal:
+
 ![alt text](image-29.png)
 
-esta habilidad sera dirigida al tanke que tenga al boss y lo empujara hacia atras constantemente
+Esta habilidad será dirigida al tank que tenga al boss y lo empujará hacia atrás constantemente.
 
 ![alt text](alientoTankeBoss4.gif)
 
-Al terminar de canalizar esta habilidad quedara un orbe el cual amarrara a todos los jugadores al centro de este mismo y los jugadores deberan alejarse y romper su cuerda saliendo de la zona marcada del orbe,
+Al terminar de canalizar esta habilidad quedará un orbe en el suelo, el cual amarrará a todos los jugadores al centro del mismo.  
+Los jugadores deberán alejarse y romper su cuerda saliendo de la zona marcada del orbe.
 
 ![alt text](EnlacesBoss4.gif)
 
-En esta habilidad el tanke principal debera dejarse su amarre para dar tiempo a los healers de levantar la raid y asi poder romper su amare y causar daño a la raid controladamente.
+En esta habilidad el tank principal deberá dejarse su amarre para dar tiempo a los healers de levantar la raid y así poder romper su amarre causando daño a la raid de manera controlada.
 
-con esto terminamos con las habilidades principales de este boss, ahora seguiremos con Ezzorak y sus habilidades.
+---
 
-- La primer habilidad es 
+### <span style="color:white;">Habilidades de Ezzorak
+
+- Primera habilidad:
 
 ![alt text](image-30.png)
 
-la cual funciona de manera llamativa ya que lanzara un rayo largo que marcara la direccion de la habilidad, la cual consistira en lanzar un agujero negro grande que se movera lentamente hacia la direccion que se pudo observar y chocara contra el limite del area y hara un gran ciculo de daño el cual tiene una mecanica y es que si el agujero negro atravieza a 5 jugadores el area reducira su tamaño significativamente.
+Lanzará un rayo largo que marcará la dirección de la habilidad, la cual consistirá en lanzar un agujero negro grande que se moverá lentamente hacia esa dirección y chocará contra el límite de la arena, haciendo un gran círculo de daño.
 
-##### <span style="color:white;">Hero
-En heroico esta habilidad marca a los jugadores haciendo imposible que puedan activar los mismos 5 la mecanica de reduccion de area por lo que deberan rotar los jugadores.
+Tiene una mecánica importante:  
+Si el agujero negro atraviesa a 5 jugadores, el área reducirá su tamaño significativamente.
+
+#### <span style="color:white;">Hero
+
+En heroico esta habilidad marca a los jugadores, haciendo imposible que los mismos 5 activen la reducción de área, por lo que deberán rotarse.
 
 ![alt text](agujeroNegroMechanicaBoss4-1.gif)
 
+El agujero negro aparece con un aura morada y al pasar por 5 jugadores se vuelve blanco indicando que alcanzó la reducción máxima.
 
-como se puede observar el agujero negro spawnea con un aura morada y al pasar por 5 jugadores se hace blanca indicando que alcanzo la reduccion maxima de area.
+---
 
-- la segunda habilidad consta de la invicacion de adds y es la mecanica principal del boss y que va a marcar los wipes principalmente la habilidad es la siguiente:
+- Segunda habilidad:
 
 ![alt text](image-31.png)
 
-ene sta habilidad el boss marcara a todos los jugadores con un area morado, y despues de unos segundos invocara un orbe debajo de cada jugador incluidos tankes y healers, estos orbes deben ser destruidos lo mas rapido posible ya que castearan daño a toda la raid, por lo que deben solocarse cerca unos de otros, pero no stackeados.
+El boss marcará a todos los jugadores con un área morada y después de unos segundos invocará un orbe debajo de cada jugador (incluidos tanks y healers).
+
+Estos orbes deben ser destruidos lo más rápido posible, ya que castearán daño a toda la raid.  
+Deben colocarse cerca unos de otros, pero no completamente stackeados.
 
 ![alt text](orbesInvocadosBoss4.gif)
 
-estos adds pueden ser interrumpidos con cualquier cc.
+Estos adds pueden ser interrumpidos con cualquier CC.
 
-Muy bien con estos cubrimos las habilidades principales de ambos bosses ahora el tema complejo de esta pelea es que todas estas habilidades suceden simultaneamente durante toda esta fase intercalandose con el siguiente orden
+---
+
+### Orden de habilidades simultáneas
+
+Todas estas habilidades suceden simultáneamente durante la fase 1 y se intercalan en este orden:
+
 1. Aliento pavoroso ![alt text](image-33.png)
-   
 2. Penumbra ![alt text](image-34.png)
-   
 3. Nulirayo ![alt text](image-32.png)
-   
-4. Aullido del vacio ![alt text](image-35.png)
+4. Aullido del vacío ![alt text](image-35.png)
 
-las ultimas dos habilidades suelen suceder a la vez por lo que es importante retener el orbe generado por nulirayo para no hacer daño excesivo a la raid.
+Las últimas dos suelen suceder a la vez, por lo que es importante retener el orbe generado por Nulirayo para no causar daño excesivo.
 
-- Ademas durante toda la pelea Xalathat estara casteando la siguiente habilidad:
+---
+
+### Xal'atath
+
+Durante toda la pelea Xal'atath estará casteando:
 
 ![alt text](image-36.png)
 
-en la cual los healers deben poner atencion a los jugadores marcados con esta habilidad ya que puede caer multiples veces en el mismo objetivo y recibir mucho daño, los jugadores marcados deberan tambien gestionar sus vidas mediante pociones o piedras de salud y defensivos personales.
+Los healers deben prestar atención a los jugadores marcados, ya que puede caer múltiples veces en el mismo objetivo.  
+Los jugadores marcados deberán gestionar su vida con pociones, piedras de salud o defensivos personales.
 
+---
 
-Este patron se repetira hasta alcanzar 100p de energia en los dragones, una vez que estos alcanzan la energia necesario entraremos en la siguiente fase casteando la siguiente habilidad:
+Este patrón se repetirá hasta alcanzar 100% de energía en los dragones.  
+Cuando esto suceda, entrarán en la siguiente fase casteando:
 
 ![alt text](image-37.png)
 
-causando una gran cantidad de daño y entrando asi en la nueva fase.
+Causando una gran cantidad de daño y dando inicio a la Fase 2.
+
+---
 
 #### <span style="color:white;">Fase 2
 
-Durante esta fase ambos dragones estaran causando daño constante a la raid y los jugadores marcados por Xalathat veran todas sus marcas discipadas
+Durante esta fase ambos dragones causarán daño constante a la raid y los jugadores marcados por Xal'atath verán sus marcas disipadas.
 
-- Uno de los paladines empezara a castear una habilidad que nos reducira el daño recibido por los dragones 
+- Uno de los paladines empezará a castear:
 
 ![alt text](image-38.png)
 
-y aparecera un add el cual va a causar daño constante a la raid y debera ser eliminado lo antes posible.
+Reduciendo el daño recibido de los dragones.
+
+Aparecerá un add que causará daño constante a la raid y deberá ser eliminado rápidamente.
 
 ![alt text](interfaseBoss4.gif)
 
-durante esta fase el daño de la raid sera elevado por lo que se requeriran cds de healing.
+Durante esta fase el daño será elevado, por lo que se requerirán CDs de healing.
 
+Una vez finalizada la fase, los dragones intercambiarán posiciones (suelo y aire) y se repetirá el ciclo de la fase 1.
 
-una vez finalizada esta fase los dragones intercambiaran posiciones (suelo y aire) y se repetira el ciclo de la primer fase hasta morir.
+### <span style="color:white;">Tanks
 
-### <span style="color:white;">Tankes
+Durante toda esta pelea los tanks deben estar atentos a 2 habilidades y al correcto alejamiento de los bosses.  
+Además, deberán intercambiar constantemente al dragón que se encuentra en el suelo, ya que el aéreo no cuenta con agro.
 
-durante toda esta pelea los tankes deben esta atentos a 2 habilidades y el alejamiento de los boses ademas de que deberan cambiar constantemente al dragon que se encuentra en el suelo ya que el aereo no cuenta con agro.
- las habilidades a tener en cuenta para Vaelgor seran
+Las habilidades a tener en cuenta para Vaelgor serán:
 
- la primera:
+Primera:
+
 ![alt text](image-39.png)
 
-Esta habilidad colocara un debuff en el tanke y debera ser cambiado cada maximo 1 carga ademas tambien golpeara a todos los jugadores que se encuentran en su cola por lo que deberan colocar al boss de manera tal que no golpee a la raid.
+Esta habilidad colocará un debuff en el tank y deberá cambiarse cada 1 carga.  
+Además, también golpeará a todos los jugadores que se encuentren en su cola, por lo que deberán posicionar al boss correctamente para no golpear a la raid.
 
-la segunda habilidad sera:
+Segunda:
 
 ![alt text](image-29.png)
 
-donde el tanke actual al momento de lanzarce la habilidad debera mantener el orbe con vida evitando caer al centro de este mientra se estabilizan las vidas de la raid y seguido estallara el orbe una vez que el orbe es invocado el tank secundario debera romper su amarre y tomar el agro del boss siendo este el ciclo para Vaelgor.
+Cuando esta habilidad sea lanzada, el tank actual deberá mantener el orbe con vida, evitando caer al centro del mismo mientras se estabilizan las vidas de la raid.  
+Una vez que el orbe es invocado, el tank secundario deberá romper su amarre y tomar el agro del boss, siendo este el ciclo para Vaelgor.
 
-en el caso de Ezzorak es la misma situacion solamente que las habilidades a tener en cuenta son:
+En el caso de Ezzorak es la misma situación, solamente que las habilidades a tener en cuenta son:
 
-la primera:
+Primera:
 
 ![alt text](image-40.png)
 
-la cual hace el mismo efecto que la de Vaelgor
+Funciona igual que la de Vaelgor.
 
-la segunda habilidad sera:
+Segunda:
 
 ![alt text](image-30.png)
 
-donde deberan cambiar el agro aproximadamente cuando esta suceda.
+Deberán cambiar el agro aproximadamente cuando esta suceda.
+
+---
 
 ### <span style="color:white;">Healers
 
-Los healers en esta pelea tiene un trabajo dificil ya que hay mucho daño en el tiempo con picos de daño constantes y una fase de mucho daño sostenido asi que estos deberan gestionar los cds en dos principales habilidades y mantener la vida de los jugadores marcados por Xalathat ademas de dispelear el posible fear que pueda tener un jugador o varios, las habilidades donde se deberan gestionar los cds son las siguientes:
+Los healers en esta pelea tienen un trabajo difícil, ya que hay mucho daño en el tiempo con picos constantes y una fase de daño sostenido.
 
-la primera:
+Deberán gestionar CDs en dos habilidades principales y mantener con vida a los jugadores marcados por Xal'atath, además de dispelear el fear cuando ocurra.
+
+Las habilidades donde deben usar CDs son:
+
+Primera:
 
 ![alt text](image-31.png)
-durante esta habilidad los jugadores recibiran mucho daño cada vez que los adds casteen por lo que deberan estar atentos y utilizar cds de healing en area.
 
-la segunda:
+Durante esta habilidad los jugadores recibirán mucho daño cada vez que los adds casteen, por lo que deberán usar CDs de healing en área.
+
+Segunda:
 
 ![alt text](image-37.png)
 
-al ocurrir esta habilidad entraremos en unos segundos de mucho daño constante a toda la raid por lo que debera ser gestionado con cds de healing para mantener la vida de los jugadores arriba.
+Al ocurrir esta habilidad entramos en varios segundos de daño constante a toda la raid, por lo que debe gestionarse con CDs fuertes.
+
+---
 
 ### <span style="color:white;">DPS
 
-los dps en esta pelea tiene una tarea especifica y es matar los diferentes adds que van saliendo en la pelea y dejar los adds cerca unos de otros para facilitar esta tarea ademas de interrumpirlos cada que sea posible, tambien deberan estar atentos a romper sus amarres lo mas pronto posible y activar el agujero negro a su maxima reduccion de area.
+Los DPS deben matar los diferentes adds que salen durante la pelea y dejarlos cerca unos de otros para facilitar el cleave.  
+También deben interrumpir siempre que sea posible, romper amarres rápidamente y activar el agujero negro a su máxima reducción de área.
+
+---
 
 ## <span style="color:white;">Lightblinded Vanguard
 
@@ -450,180 +479,159 @@ los dps en esta pelea tiene una tarea especifica y es matar los diferentes adds 
 
 ### <span style="color:white;">Resumen
 
-Esta pelea cosnta de 3 boses con vidas separadas los cuales deberan morir al mismo tiempo o cercano donde cada uno de estos va aejecutar diferentes mecanicas que debemos solventar como jugadores, ocurriendo estas simultaneamente durante toda la pelea.
+Esta pelea consta de 3 bosses con vidas separadas, los cuales deberán morir al mismo tiempo o muy cercanos en porcentaje.
 
 ![alt text](image-42.png)
 
-al inicio de esta pelea vamos a tener un momento en el que 2 de los 3 bosses se tirar imunidad con lo que debemos todos hacer focus al unico de los 3 que no tenga inmunidad y hacer el maximo daño posible, esta es una pelea de prioridad de target por lo que es single target con cleave.
+Al inicio, 2 de los 3 bosses se lanzarán inmunidad.  
+Se debe hacer focus al único sin inmunidad y hacer el máximo daño posible.
 
-el ciclo de combate de esta pelea consta de cumplir mecanicas hasta que un boss consiga el total de su recurso y ejecute una habilidad definitiva llamada Aura, por lo que todas las habilidades pasaran simultaneamente menos la definitiva, teniendo esto en cuenta voy a explicar cada una de las habilidades de cada boss en orden del primero al ultimo que utilizara su Aura.
+Es una pelea de prioridad de target, por lo que es single target con cleave.
 
-#### <span style="color:white;"> General Amias Bellamy
+El ciclo consiste en cumplir mecánicas hasta que un boss complete su recurso y lance su habilidad definitiva llamada Aura.
 
-Este sera el primer boss en castear su Aura dado que incia la pelea con su barra de recurso casi llena por lo que rapidamente lanzara su Aura la cual es:
+---
+
+### <span style="color:white;">General Amias Bellamy
+
+Será el primero en lanzar su Aura:
 
 ![alt text](image-43.png)
 
-una vez que este boss empiece a castear este aura los tankes y jugadores deberan salir rapidamente del area,
+Al comenzar el casteo, los tanks y jugadores deben salir rápidamente del área.
 
 ![alt text](DevocionBoss5.gif)
 
-Los jugadores deberan esquivar los escudos que van saliendo constantemente desde el centro del Area, al finalizar esta habilidad en esa area quedara una consagracion la cual hara mucho daño a la raid.
+Deben esquivar los escudos que salen desde el centro.  
+Al finalizar quedará una consagración que hace mucho daño.
 
 ![alt text](image-44.png)
 
-- la siguiente habilidad de este boss sera la siguiente:
+Siguiente habilidad:
 
 ![alt text](image-45.png)
 
-esta habilidad marcara a varios jugadores y les lanzara un escudo que causa daño a todos los jugadores que esten dentro del circulo y aplica un debuf de absorcion de healing que debera ser curado.
+Marca jugadores con un escudo que causa daño dentro del círculo y aplica absorción de healing.
 
 ![alt text](<Escudo del vengadorBoss5.gif>)
 
-- la siguiente habilidad que tiene este boss es un daño constante a toda la raid el cual se incrementa cada vez que otro de los bosses lanza su aura:
-  
+Daño constante:
+
 ![alt text](image-46.png)
 
-con esto terminamos con Bellamy.
+Se incrementa cada vez que otro boss lanza su Aura.
 
-#### <span style="color:white;"> Comandante Venel Sangreluz
+---
 
-Este sera el siguiente boss en castear su aura y ademas sera el primer boss el cual al principio de la pelea no tendra la inmunidad  recobora daño aumentado al tere colera vengativa lanzado:
+### <span style="color:white;">Comandante Venel Sangreluz
 
-![alt text](image-47.png)
-
-por lo que se debe hacer mucho daño a este.
-
-el aura que lanzara este boss es la siguiente:
+Aura:
 
 ![alt text](image-48.png)
 
-aura la cual potencia el daño que inflinjen los demas boses y de igual manera deberan ser movidos fuera del area, dejando al final de su casteo una consagracion.
+Potencia el daño de los demás bosses y deja consagración.
 
 ![alt text](ColeraBoss5.gif)
 
-La siguiente habilidad que utilizara este boss es:
+Soak grupal:
 
 ![alt text](image-49.png)
 
-En la cual marca a varios jugadores con un area que se debe sockear equitativamente para evitar daño letal en un solo jugador (puede ser evitado con inmunidades).
+Debe dividirse el daño equitativamente.
 
 ![alt text](MartillosBoss5.gif)
 
-al finalizar este sockeo la habilidad dejara martillos en el area.
+Deja martillos que giran y se expanden.
 
 ![alt text](image-50.png)
 
-los caules giraran y se alejaran lentamente del punto central causando mucho daño
-
 ![alt text](martillos2Boss5.gif)
 
-con esto terminamos con las habilidades del boss 2.
+---
 
-#### <span style="color:white;"> Capellana de guerra Senn
+### <span style="color:white;">Capellana de Guerra Senn
 
-Este sera el ultimo boss que usara su habilidad de Aura la cual es:
+Aura:
 
 ![alt text](image-51.png)
 
-la cual causa que cualquier jugador que ataque a los demas boses sufra de silencio o desarme, por lo que hay que salir rapidamente dle area.
+Silencia o desarma si se ataca dentro del área.
 
 ![alt text](PazBoss5.gif)
 
-dejando al final de su casteo una consagracion.
-
-la siguiente habilidad de este boss es:
+Absorción fuerte:
 
 ![alt text](image-52.png)
 
-esta habilidad causa que los jugadores mas cercanos sufran de una absorbcion de healing grande al cual deberan curar los healers lo mas rapido posible
-
-la siguiente habilidad que usa este boss es:
+Daño masivo al lanzar Aura de compañeros:
 
 ![alt text](image-53.png)
 
-la cual este boss lanzara cada vez que sus compañeros lancen su aura esta habilidad causa mucho daño por lo que debe ser superada con cds de healing.
-
-la ultima habilidad que lanzara este boss es :
+Carga:
 
 ![alt text](image-54.png)
 
-la cual consta de 2 partes la primera es la carga donde el boss saldra cargando hacia un jugador causandole daño y se quedara quita en el lugar casteando luz cegadora habilidad que debera ser interrumpida una vez que se elimine por completo el escudo del boss.
+Debe romperse su escudo e interrumpirse.
 
 ![alt text](cargaBoss5.gif)
 
-esta habilidad si se termina de castear stuneara a toda la raid y cargara mas energia para su aura.
+---
 
-y con esto terminamos la explicacion dle ultimo de los 3 bosses, comomencione la incio estos boses vana estar tirando todas las habilidades simultaneamente a excepcion de las auras las cuales seran casteadas en orden.
+### <span style="color:white;">Tanks
 
-### <span style="color:white;">Tankes
-
-los tankes deben tener en cuanta 2 habilidades y mover a los boses segun corresponda y esquivar mecanicas segun corresponda, las habilidades que deben tener en cuenta los tankes son:
-
-la primera:
+Deben intercambiar según estas habilidades:
 
 ![alt text](image-57.png)
 
-Esta habilidad sera casteada por Bellamy y marcara al tanke para recibir mas daño de escudo del honrado, por lo que debera haber un intercambio de tanke al momento de lanzar esta habilidad.
-
-la segunda es:
-
 ![alt text](image-56.png)
 
-Esta habilidad funciona igual a la anterior y los tankes deberan estar atentos a que se lance la sentencia correspondioente para hacer un intercambio rapidamente y asi evitar el daño.
+Solo se tankean 2 bosses; Senn no tiene agro.
 
-En esta pelea unicamente se tankean 2 de los 3 boses siendo Senn el unico boss que no tiene agro y se movera cerca de los jugadores toda la pelea.
+---
 
 ### <span style="color:white;">Healers
 
-los healers en esta pelea tiene una tarea dificil ya que deberan tener en cuenta todas las absorciones de healing que hay presentes en la pelea y lidiar con estas, como habilidades principales existen 3 las cuales seran de suma imporantcia y donde deberan ser utilizados los cds de healing que son las siguientes:
-
-la primera:
+Habilidades clave:
 
 ![alt text](image-52.png)
 
-esta habilidad causara una gran cantidad de daño a toda la raid que debera ser curada.
-
-la segunda:
-
 ![alt text](image-49.png)
-
-Esta habilidad causara una gran cantidad de daño a toda la raid por lo que tambien debera ser lidiada con cds de healing.
-
-la tercera:
 
 ![alt text](image-46.png)
 
-Esta habilidad al principio de la pelea no sera un daño considerable pero cada vez que avance el tiempo sera mas problematica y requerira al final de la pelea utilizar cds de healing para sostener las vidas.
+Mucho manejo de absorciones y CDs.
 
-
-sumado a todo esto existen habilidades que requieren ser dispeleadas al momento por lo que tambien deberan estar atentos a ese tipo de habilidades.
+---
 
 ### <span style="color:white;">DPS
 
-Los dps en esta pelea tienen la tarea secilla y es cumplir con cada mecanica de soak y cambiar oportunamente de target teniendo en cuenta que se debe reducir el escudo de Senn e interrumpirla y ademas mantener las vidas de los boses cerca en porcentaje para evitar su mecanica de enrage al final de la pelea.
+Cumplir soaks, cambiar targets correctamente y mantener porcentajes de vida equilibrados para evitar enrage.
 
+---
 
 ## <span style="color:white;">Alleria Brisaveloz
 
 ![alt text](image-58.png)
 
-de este boss no se sabe nada hasta que salga la raid.
+De este boss no se sabe nada hasta que salga la raid.
 
+---
 
-# <span style="color:white;">Marcha sobre Quel Danas (2 boses)
+# <span style="color:white;">Marcha sobre Quel Danas (2 bosses)
 
-## <span style="color:white;">Belo ren
+## <span style="color:white;">Belo Ren
 
 ![alt text](image-59.png)
 
-Este boss cambio mucho de la beta al retail entocnes mejor lo vemos en su momento con los cambios.
+Este boss cambió mucho de la beta al retail, entonces mejor verlo cuando esté definitivo.
 
-## <span style="color:white;">Cae la medianoche 
+## <span style="color:white;">Cae la Medianoche
 
 ![alt text](image-60.png)
 
-Nose sabe nada de este boss.
+No se sabe nada de este boss.
+
+---
 
 # <span style="color:white;">La Onirifalla
 
@@ -633,114 +641,101 @@ Nose sabe nada de este boss.
 
 ### <span style="color:white;">Resumen
 
-Esta pelea es una pelea de gestions de adds con dos planos existenciales donde una parte de la raid va a estar fuera y otra parte dentro ambos tiene  tareas que cumplir y deben ayudar a los jugadores del otro plano a cumplir su objetivo , es una pelea con muchos adds por lo que se considera una pelea AOE.
+Pelea de gestión de adds con dos planos existenciales.  
+Parte de la raid estará fuera y parte dentro.  
+Es una pelea claramente orientada a AoE.
 
-Esta pelea va a estar dividida en 2 fases siendo estas de la siguiente manera.
+---
 
 #### <span style="color:white;">Fase 1
 
-Durante esta fase el boss inciara marcando al tanke actual con un soak:
+Soak inicial:
 
 ![alt text](image-62.png)
 
-habilidad que pondra un debuff al tanke que debera ser cambiado en este momento ya que el tank que recibio la habilidad junto a todos los miembros de la raid que sockearon la habilidad al plano onirico.
+Envía jugadores al plano onírico.
 
 ![alt text](SoakBoss11.gif)
 
-##### <span style="color:white;">Plano onirico
+---
 
-los jugadores que entren a este plano deberan lidiar con una serie de adds 
+##### <span style="color:white;">Plano onírico
+
+Adds con escudo (solo reducible dentro) y vida normal (fuera).
 
 ![alt text](image-63.png)
 
-todos estos adds tiene dos vidas por asi decirlo un escudo y su vida normal, el escudo solo puede ser reducido por los jugadores del plano onirico y la vida normal por los jugadores en el plano normal, por lo que el objetivo de los jugadores del plano onirico es reducir ese escudo lo mas pronto posible, estos adds utilizan diferentes facultado entre las que algunas deben ser inmterrumpidas y otras esquivadas y provocaran cada vez mas daño.
-
-El tanke debera hacerse cargo de movere y controlar los adds que al perder el esqudo dejaran un area en el suelo.
+El tank debe moverlos correctamente.
 
 ![alt text](image-64.png)
 
-y al derrotar todos los adds o que se acabe el tiempo seran sacados al plano normal donde podran hacer daño a los adds que lograron sacar del plano onirico.
+---
 
 ##### <span style="color:white;">Plano normal
 
-Los jugadores que se queden en el plano normal deberan ayudar a los jugadores del plano onirico limpiando los suelos que van quedando con la siguiente habilidad:
+Limpiar suelos:
 
 ![alt text](image-65.png)
 
-este debuff debera ser dispeleado por los healers una vez que el jugador se posiciono cerca de uno o varios suelos para su limpieza.
-
 ![alt text](CharcosBoss11.gif)
 
-al limpiar este debuff causa daño a los jugadores dentro y los eleva por el aire asi que hay que tener cuidado.
-
-Ademas el boss marcara a un jugador cercano con un cono frontal:
+Cono frontal:
 
 ![alt text](image-66.png)
 
-causando mucho daño y dejando un sangrado, asi que todos los jugadores deberan salir de este cono rapidamente.
-
 ![alt text](sangradoBoss11.gif)
 
-Durante esta fase los adds que van saliendo del plano onirico iran caminando directo al boss pudiendos er relentizados y stuneados, estos deben ser eliminados antes de llegar al boss o le causaran un incremento de daño y daño en area considerable sanandolo tambien.
+Adds que caminan al boss (prioridad):
 
 ![alt text](image-67.png)
 
-estos add son prioridad durante esta fase.
-
 ![alt text](ADDsFixedBoss11.gif)
 
-Al llegar al maximo de recurso el boss lanzara la habilidad:
+Habilidad al 100%:
 
 ![alt text](image-68.png)
 
-en la cual atraera a todos los jugadores y consumira todos los adds restante en cualquiera de los dos planos aplicando el daño en area y todas las mecanicas de la habilidad Esencia Canibalizada, y esto marcara el inicio de la segunda Fase
-
 ![alt text](CosumirBoss11.gif)
+
+---
 
 #### <span style="color:white;">Fase 2
 
-durante esta fase el boss lanzara:
+Vuelo devastador:
 
 ![alt text](image-69.png)
 
-donde volara por una region dle mapa en linea recta provocando daño a su paso e invocando adds y dejando suelos a su paso.
-
 ![alt text](AeroBoss11.gif)
 
-a diferencia de la fase 1 los adds tiene su vida completa y deben ser eliminados rapidamente o se acumularan muchos.
-
-ademas los jugadores seran marcados con el circulo azul que debe ser dispeelado para limpiar los suelos y abrir paso para esquivar.
-
-Luego de algunas devastaciones el boss volvera a caer al suelo con al siguiente habilidad:
+Caída:
 
 ![alt text](image-70.png)
 
-la cual hara daño al caer y hara volar a los jugadores y tambien consumira los adds restantes provocando daño, buffando su daño y sanandose.
-
 ![alt text](CaidaBoss11.gif)
 
-con esto se da por terminada la pelea del boss repitiendo estos ciclos hasta morir o entrar en enrage,
-
-durante toda la pelea el boss esta casteando un dots a todos los jugadores llamado:
+DOT constante:
 
 ![alt text](image-71.png)
 
-el cual debera ser curado por los healers durante la mayor parte de la pelea.
+---
 
-### <span style="color:white;">Tankes
+### <span style="color:white;">Tanks
 
-los tankes en esta pelea deberan solamente turnarse los soaks cambiando de tanke cada uno y mover los adds en el plano onirico de manera que queden lejos del boss.
+Turnarse soaks y mover adds correctamente.
 
-no tiene mayor complejidad ya que cada fase esta muy marcada por mecanicas donde los tankes no comparten plano.
+---
 
 ### <span style="color:white;">Healers
 
-los healers tiene 2 tareas importantes curar los dots que van a estar constantemente durante toda la pelea y dispelear a los jugadores que limpian los suelos, ademas que las fases tambien tiene muy marcado donde se deben usar los cds de healing siendo estos utiles en el plano onirico debido al gran daño que hay dentro y en el plano normal al fallar eliminando adds y que en boss los consuma, mientras que en la fase dos debe usarse los cds al finalizar la fase y que el boss caiga del cielo.
+Curar DOT constante y gestionar CDs en cambios de fase.
+
+---
 
 ### <span style="color:white;">DPS
 
-Los dps deberan cumplir un papel muy importante y es el de eliminar los adds en ambos planos y procurar que estos nunca lleguen al boss y no queden vivos en cada cambio de fase, ademas de interrumpir a los adds que provocan fear en los jugadores.
+Eliminar todos los adds en ambos planos e interrumpir fears.
 
-y con esto termina esta guia de las raids.
+---
 
+Y con esto termina esta guía de las raids.
 </div>
