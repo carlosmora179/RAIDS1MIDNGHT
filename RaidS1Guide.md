@@ -641,19 +641,22 @@ No se sabe nada de este boss.
 
 ### <span style="color:white;">Resumen
 
-Pelea de gestión de adds con dos planos existenciales.  
-Parte de la raid estará fuera y parte dentro.  
-Es una pelea claramente orientada a AoE.
+Esta pelea es una pelea de gestión de adds con dos planos existenciales, donde una parte de la raid va a estar fuera y otra parte dentro.  
+Ambos grupos tienen tareas que cumplir y deben ayudarse mutuamente para completar los objetivos.
+
+Es una pelea con una gran cantidad de adds durante todo el combate, por lo que se considera una pelea orientada a daño en área (AoE).
+
+La pelea se divide en 2 fases bien marcadas que se repiten hasta que el boss muera o entre en enrage.
 
 ---
 
 #### <span style="color:white;">Fase 1
 
-Soak inicial:
+Durante esta fase el boss iniciará marcando al tank actual con un soak:
 
 ![alt text](image-62.png)
 
-Envía jugadores al plano onírico.
+Esta habilidad colocará un debuff en el tank y deberá hacerse un cambio inmediato, ya que el tank que recibe la habilidad junto con todos los miembros de la raid que soakearon serán enviados al plano onírico.
 
 ![alt text](SoakBoss11.gif)
 
@@ -661,81 +664,195 @@ Envía jugadores al plano onírico.
 
 ##### <span style="color:white;">Plano onírico
 
-Adds con escudo (solo reducible dentro) y vida normal (fuera).
+Los jugadores que entren a este plano deberán enfrentarse a una serie de adds:
 
 ![alt text](image-63.png)
 
-El tank debe moverlos correctamente.
+Estos adds tienen dos “vidas”:
+
+- Un escudo
+- Su vida normal
+
+El escudo **solo puede ser reducido por los jugadores que están en el plano onírico**.  
+La vida normal **solo puede ser reducida por los jugadores que están en el plano normal**.
+
+El objetivo principal del grupo dentro del plano onírico es reducir lo más rápido posible el escudo de estos adds.
+
+Los adds utilizan diferentes habilidades:
+- Algunas deben ser interrumpidas
+- Otras deben ser esquivadas
+- Varias aumentan progresivamente el daño que hacen
+
+El tank dentro del plano onírico debe:
+- Agrupar los adds
+- Controlarlos correctamente
+- Moverlos estratégicamente
+
+Cuando un add pierde su escudo, deja un área en el suelo:
 
 ![alt text](image-64.png)
+
+Estas áreas deben colocarse en lugares organizados para no limitar el espacio.
+
+Cuando se derrotan todos los adds o se termina el tiempo dentro del plano onírico, los jugadores regresan al plano normal.  
+En ese momento podrán comenzar a dañar la vida real de los adds que lograron debilitar desde dentro.
 
 ---
 
 ##### <span style="color:white;">Plano normal
 
-Limpiar suelos:
+Los jugadores que se quedan en el plano normal tienen dos responsabilidades principales:
+
+1. Ayudar indirectamente al plano onírico.
+2. Controlar los adds que salen hacia el boss.
+
+Para limpiar los suelos que van quedando del plano onírico se utiliza la siguiente habilidad:
 
 ![alt text](image-65.png)
 
+Este debuff debe ser dispeleado por los healers una vez que el jugador se posicione estratégicamente cerca de uno o varios suelos.
+
 ![alt text](CharcosBoss11.gif)
 
-Cono frontal:
+Cuando se dispelea:
+- Hace daño a los jugadores cercanos
+- Los eleva ligeramente por el aire
+
+Por lo tanto, debe hacerse con cuidado y coordinación.
+
+---
+
+Además, el boss marcará a un jugador cercano con un cono frontal:
 
 ![alt text](image-66.png)
 
+Este cono causa mucho daño y deja un sangrado.
+
 ![alt text](sangradoBoss11.gif)
 
-Adds que caminan al boss (prioridad):
+Todos los jugadores deben salir inmediatamente del cono para evitar daño innecesario.
+
+---
+
+Durante esta fase, los adds que salen del plano onírico caminarán directamente hacia el boss.
 
 ![alt text](image-67.png)
 
+Estos adds pueden ser ralentizados, pero no detenidos completamente.  
+Deben ser eliminados antes de que lleguen al boss.
+
 ![alt text](ADDsFixedBoss11.gif)
 
-Habilidad al 100%:
+Si alcanzan al boss:
+- Lo sanan
+- Aumentan su daño
+- Causan daño en área considerable
+
+Estos adds son prioridad absoluta durante la fase 1.
+
+---
+
+Cuando el boss alcanza el máximo de su recurso lanzará:
 
 ![alt text](image-68.png)
 
+Esta habilidad:
+- Atrae a todos los jugadores hacia el boss
+- Consume todos los adds restantes en ambos planos
+- Aplica daño en área
+- Activa todas las mecánicas acumuladas de Esencia Canibalizada
+
 ![alt text](CosumirBoss11.gif)
+
+Esto marca el final de la fase 1 y el inicio de la fase 2.
 
 ---
 
 #### <span style="color:white;">Fase 2
 
-Vuelo devastador:
+Durante esta fase el boss cambia completamente el ritmo del combate.
+
+Primero lanzará:
 
 ![alt text](image-69.png)
 
+Volará en línea recta por una región del mapa, causando daño en su trayectoria, invocando adds y dejando suelos peligrosos.
+
 ![alt text](AeroBoss11.gif)
 
-Caída:
+A diferencia de la fase 1:
+- Los adds ahora tienen su vida completa.
+- No existe el sistema de escudo.
+- Deben eliminarse rápidamente o se acumularán demasiados.
+
+---
+
+Además, los jugadores serán marcados con el círculo azul que debe ser dispeleado estratégicamente para limpiar suelos y abrir espacio seguro para moverse.
+
+Después de varias devastaciones, el boss volverá al suelo con:
 
 ![alt text](image-70.png)
 
+Esta habilidad:
+- Hace daño al impactar
+- Lanza a los jugadores por el aire
+- Consume los adds restantes
+- Se sana
+- Incrementa su daño
+
 ![alt text](CaidaBoss11.gif)
 
-DOT constante:
+Esta parte genera uno de los mayores picos de daño de toda la pelea.
+
+---
+
+Durante toda la pelea el boss estará casteando constantemente un DOT a toda la raid llamado:
 
 ![alt text](image-71.png)
+
+Este daño constante debe ser gestionado por los healers durante casi todo el combate.
 
 ---
 
 ### <span style="color:white;">Tanks
 
-Turnarse soaks y mover adds correctamente.
+Los tanks deben:
+
+- Turnarse los soaks en cada envío al plano onírico.
+- Controlar correctamente los adds dentro del plano onírico.
+- Posicionar adecuadamente los suelos.
+- Asegurar que los adds nunca lleguen al boss.
+
+No es una pelea mecánicamente compleja para tanks, pero sí exige buena organización.
 
 ---
 
 ### <span style="color:white;">Healers
 
-Curar DOT constante y gestionar CDs en cambios de fase.
+Los healers tienen dos tareas principales:
+
+1. Mantener controlado el DOT constante durante toda la pelea.
+2. Dispelear correctamente a los jugadores que limpian los suelos.
+
+Momentos clave para usar CDs:
+
+- Dentro del plano onírico por el daño elevado.
+- Cuando el boss consume adds.
+- Al finalizar la fase 2 cuando el boss cae del cielo.
 
 ---
 
 ### <span style="color:white;">DPS
 
-Eliminar todos los adds en ambos planos e interrumpir fears.
+Los DPS tienen una función crítica:
 
----
+- Reducir escudos en el plano onírico.
+- Eliminar rápidamente los adds en el plano normal.
+- Priorizar siempre los adds que caminan hacia el boss.
+- Interrumpir habilidades peligrosas.
+- Evitar acumulación excesiva de enemigos entre fases.
+
+El control de adds define el éxito de esta pelea.
 
 Y con esto termina esta guía de las raids.
 </div>
